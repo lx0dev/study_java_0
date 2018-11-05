@@ -6,6 +6,7 @@ public class study_java_0 {
                 System.out.print(a[i][j]);
             }
             System.out.println();
+            //abcd
         }
     }
 }
